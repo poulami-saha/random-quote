@@ -10,3 +10,4 @@ This application is part of [Front End Development Library Project](https://www.
 
 This application uses [QuoteGarden API](https://pprathameshmore.github.io/QuoteGarden/) to fetch the random quotes
 
+Deployed via Netlify at [Motivate with Quote](https://motivate-with-quote.netlify.app)
